@@ -7,7 +7,7 @@ At the time I created this project I did not know anything about Inheritance or 
 
 | Personal Rating | Year of Development | Languages | Tools | Type of Application |
 | --- | --- | --- | --- | --- |
-| ⭐️ (1/5) | 2023 | C++ | SFML | Tool |
+| ⭐️ (1/5) | 2022 | C++ | SFML | Tool |
 
 # Getting Started
 
