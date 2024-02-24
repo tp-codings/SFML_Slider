@@ -15,7 +15,7 @@ At the time I created this project I did not know anything about Inheritance or 
 
 - This application is tested in windows 10/11
 - This repo does not provide an executable -> you have to compile your own (I used Visual Studio)
-- I don't guarantee that every corner case has been taken into account. The project is part of my learning process for C++ and OpenGL
+- I don't guarantee that every corner case has been taken into account. The project is part of my learning process for C++ and SFML
 - All dependencies are included in this repo, so it is almost plug and play :)
 
 ## Installation
