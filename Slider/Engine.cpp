@@ -44,7 +44,7 @@ void Engine::update()
 void Engine::updateGUI()
 {
 	std::stringstream ss;
-	ss << "Slider...";
+	ss << "Slider... you stink";
 	this->GUI.setString(ss.str());
 }
 
